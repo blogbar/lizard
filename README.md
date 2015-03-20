@@ -1,4 +1,4 @@
-parser
+Lizard
 ======
 
-Distributed parser which provides RESTful interfaces.
+Distributed blog crawler.
